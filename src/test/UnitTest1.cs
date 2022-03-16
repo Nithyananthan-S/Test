@@ -15,5 +15,11 @@ namespace TestTst
         {
             Assert.Equal(2, 2);
         }
+
+        [Fact]
+        public void Test3()
+        {
+            Assert.Equal(2, 3);
+        }
     }
 }
