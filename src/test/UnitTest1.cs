@@ -19,8 +19,7 @@ namespace TestTst
         [Fact]
         public void Test3()
         {
-            //dummy
-            Assert.Equal(3, 3);
+           Assert.Equal(3, 3);
         }
     }
 }
