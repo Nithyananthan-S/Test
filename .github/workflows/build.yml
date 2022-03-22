@@ -27,4 +27,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: Test
-        path: src/app/bin/release/net6.0/*.*
+        path: src/app/bin/*.*
